@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>982826830444-k7t1bh4t1dl4euu7fogo2nbgjut84q6a.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.982826830444-k7t1bh4t1dl4euu7fogo2nbgjut84q6a</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAIdVUlKxWd9jnni0VVDzDCOr6KhsqoO0s</string>
+	<key>GCM_SENDER_ID</key>
+	<string>982826830444</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.mobileToMobileWebrtc</string>
+	<key>PROJECT_ID</key>
+	<string>flight-tracker-ios</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flight-tracker-ios.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:982826830444:ios:bc956d596e85189c30a649</string>
+</dict>
+</plist>

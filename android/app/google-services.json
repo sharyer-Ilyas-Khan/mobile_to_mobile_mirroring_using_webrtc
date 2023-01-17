@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "982826830444",
+    "project_id": "flight-tracker-ios",
+    "storage_bucket": "flight-tracker-ios.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982826830444:android:159648f4fed7897e30a649",
+        "android_client_info": {
+          "package_name": "com.example.mobile_to_mobile_webrtc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982826830444-239i2kjujbpmg35g5qusollfrdrim4ba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb8eY867OVu1ngW1YaM_fxrCInH-RvL2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982826830444-239i2kjujbpmg35g5qusollfrdrim4ba.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "982826830444-3g7ecrvof20r1qckfhd6n73qulf7h7on.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.maximus.flight.tracker.lite",
+                "app_store_id": "18100771289"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
